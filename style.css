@@ -108,8 +108,8 @@ html {
   margin-top: 0.5rem;
 }
 .menu {
-  width: 4rem;
-  height: 6rem;
+  width: 6rem;
+  height: 8rem;
   background-color: #000;
   position: fixed;
   top: 1rem;
@@ -135,15 +135,15 @@ html {
   background-color: #000;
   position: absolute;
   top: -15rem;
-  left: 1.75rem;
+  left: 2.75rem;
   box-shadow: 0.1rem 0 0.1rem #000;
 }
 .menu i {
-  font-size: 2.5rem;
+  font-size: 5rem;
   color: #fff;
   position: absolute;
-  width: 2rem;
-  height: 2rem;
+  width: 3rem;
+  height: 4rem;
   top: 2rem;
   left: 0.85rem;
 }
